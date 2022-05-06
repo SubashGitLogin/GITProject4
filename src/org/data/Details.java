@@ -5,6 +5,10 @@ public class Details {
 private void caseA() {
 	System.out.println("Case A added");
 }	
+private void caseB() {
+	System.out.println("Case B added");
+
+}
 private void tc3() {
 	System.out.println("Test Case 3 Complted");
 }	
@@ -16,7 +20,7 @@ public static void main(String[] args) {
 	d.caseA();
 	d.tc3();
 	d.tc4();
-	
+	d.caseB();
 	
 	
 	
